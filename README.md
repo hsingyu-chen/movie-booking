@@ -1,0 +1,2 @@
+# movie-booking
+In this application, users can choose the movie theater which they are preferred. Users are allowed to choose the date, time, movie, and number of tickets. Also, users could see which seats are available to choose. Users could choose they want to join the membership or not, this application using database to save the member information, therefore, when users become the members, they will enjoy the discount of their purchases.
